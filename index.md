@@ -13,10 +13,12 @@ I am a full stack developer from India, High level experience in full stack deve
   
 <!-- CONNECT : START --> 
 ### Connect with me:
+<br />
 
 [<img align="left" alt="murugankannan.com" width="22px" src="https://icons.getbootstrap.com/assets/icons/globe.svg" />][website]
 [<img align="left" alt="Murugan Kannan / Twitter" width="22px" src="https://icons.getbootstrap.com/assets/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Murugan Kannan | LinkedIn" width="22px" src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Murugan Kannan | Github" width="22px" src="https://icons.getbootstrap.com/assets/icons/github.svg" />][github]
 
 <br />
 <!-- CONNECT : END --> 
@@ -79,3 +81,4 @@ I am a full stack developer from India, High level experience in full stack deve
 [windows]: https://www.microsoft.com/en-in/windows
 [spring]: https://spring.io/
 [typescript]: https://www.typescriptlang.org/
+[github]: https://github.com/murugan-kannan
