@@ -2,7 +2,7 @@
 ### Hi, I am Murugan Kannan 👋
 
 [![website](https://img.shields.io/website?url=https%3A%2F%2Fmurugankannan.com%2F)][website]
-[![linkedin](https://img.shields.io/twitter/follow/murugan_kannan_?style=social)][linkedin]
+[![linkedin](https://img.shields.io/twitter/follow/murugan_kannan_?style=social)][twitter]
 
 I am a full stack developer from India, High level experience in full stack development and cloud knowledge, producing quality work.
 
