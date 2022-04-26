@@ -4,14 +4,14 @@
 [![website](https://img.shields.io/website?url=https%3A%2F%2Fmurugankannan.com%2F)][website]
 [![linkedin](https://img.shields.io/twitter/follow/murugan_kannan_?style=social)][twitter]
 
-I am a full stack developer from India, High level experience in full stack development and cloud knowledge, producing quality work.
+I am a full stack developer from India, High level experience in full stack development and **cloud knowledge**, producing quality work.
 
-- 🔭 I’m currently working on HCL Software
-- 🌱 I’m currently diving deep into Angular, Kubernetes, OpenShift, etc(DevOps Tools)
+- 🔭 I’m currently working on Walmart Global Tech India as a SDE - 3
+- 🌱 I’m currently diving deep into **GO language**, **System Design**, Angular, Kubernetes, OpenShift, etc(DevOps Tools)
 - 👨‍💻 I’m looking to collaborate on backend engineering projects
-- 📚 Ask me about full stack development(java, html, angular, spring, j2ee, javascript).
+- 📚 Ask me about full stack development(system design, java, html, angular, spring, j2ee, javascript).
 - 📖 Read my blogs on [![Medium Badge](http://img.shields.io/badge/-Murugan%20Kannan-1ca0f1?style=social&logo=medium&logoColor=black&link=https://murugan-kannan.medium.com/)][medium] and [![Blog Badge](http://img.shields.io/badge/-Murugan%20Kannan-1ca0f1?style=social&logo=blogger&logoColor=orange&link=https://murugan-kannan.blogspot.com/)][blogpost]
-- ⚡ Fun fact: Chess, Movie
+- ⚡ Fun fact: Open Source, Chess, Movie
 <!-- ABOUT : END -->
   
 <!-- CONNECT : START --> 
