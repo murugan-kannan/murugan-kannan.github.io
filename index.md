@@ -1,12 +1,13 @@
 <!-- ABOUT : START -->
 ### Hi, I am Murugan Kannan 👋
 
-[![website](https://img.shields.io/website?url=https%3A%2F%2Fmurugankannan.com%2F)][website]
-[![linkedin](https://img.shields.io/twitter/follow/murugan_kannan_?style=social)][twitter]
+#### Software Development Engineer - 3 at Walmart Global Tech India
+
+[<img alt="walmart" width="48px" src="https://avatars.githubusercontent.com/u/768298?s=200&v=4" />][walmart]
 
 I am a full stack developer from India, High level experience in full stack development and **cloud knowledge**, producing quality work.
 
-- 🔭 I’m currently working on Walmart Global Tech India as a SDE - 3
+<!-- - 🔭 I’m currently working on Walmart Global Tech India as a SDE - 3 -->
 - 🌱 I’m currently diving deep into **GO language**, **System Design**, Angular, Kubernetes, OpenShift, etc(DevOps Tools)
 - 👨‍💻 I’m looking to collaborate on backend engineering projects
 - 📚 Ask me about full stack development(system design, java, html, angular, spring, j2ee, javascript).
@@ -24,6 +25,10 @@ I am a full stack developer from India, High level experience in full stack deve
 <br />
 <!-- CONNECT : END --> 
 
+<br/>
+
+[![website](https://img.shields.io/website?url=https%3A%2F%2Fmurugankannan.com%2F)][website]
+[![linkedin](https://img.shields.io/twitter/follow/murugan_kannan_?style=social)][twitter]
 <!-- LANGUAGES : START --> 
 ### Languages and Tools:
 
@@ -102,4 +107,5 @@ I am a full stack developer from India, High level experience in full stack deve
 [windows]: https://www.microsoft.com/en-in/windows
 [spring]: https://spring.io/
 [typescript]: https://www.typescriptlang.org/
+[walmart]:  https://one.walmart.com/content/globaltechindia/en_in.html
 
