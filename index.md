@@ -1,7 +1,7 @@
 <!-- ABOUT : START -->
 ### Hi, I am Murugan Kannan 👋
 
-#### Software Development Engineer - 3 at Walmart Global Tech India
+#### Senior Software Development Engineer - 3 at Walmart Global Tech India
 
 [<img alt="walmart" width="48px" src="https://avatars.githubusercontent.com/u/768298?s=200&v=4" />][walmart]
 
